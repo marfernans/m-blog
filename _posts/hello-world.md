@@ -1,19 +1,18 @@
 ---
-title: 'Learn How to Pre-render Pages Using Static Generation with Next.js'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'La desconexión y contexto del entorno local.'
+excerpt: 'La desconexión y contexto del entorno local hace difícil adoptar acciones que 
+puedan mitigar los impactos ambientales en la ciénaga grande y la población.'
 coverImage: '/assets/blog/hello-world/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-08-28T05:35:07.322Z'
 author:
-  name: Tim Neutkens
-  picture: '/assets/blog/authors/tim.jpeg'
+  name: Mario Fedz
+  picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/hello-world/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+La ciénaga grande es un ecosistema estratégico para la biodiversidad y el desarrollo socioeconómico de la región caribe. Una investigación desarrollada entre UNIMAGDALENA y el Instituto de Investigaciones Marinas y Costeras – INVEMAR, mostró el riesgo que vive el complejo cenagoso y las comunidades aledañas, que han sufrido una serie de impactos ambientales negativos debido a factores como la deforestación de sus manglares, la sobreexplotación pesquera, el cambio climático y la falta de gestión ambiental adecuada, impactos que han generado una pérdida de la calidad y cantidad del agua, una disminución de la biodiversidad, una alteración de los ciclos hidrológicos y ecológicos, y una afectación de la salud y el bienestar de las comunidades locales que dependen de la ciénaga para su subsistencia.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
 
-## Lorem Ipsum
-
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+La desconexión del contexto del entorno local se refiere a la falta de conocimiento, reconocimiento, valoración y participación de las características, necesidades, percepciones y saberes de las comunidades locales que habitan y conviven con la ciénaga grande. el Instituto de Investigaciones Marinas y Costeras de Colombia – INVEMAR. Proyecto ‘Conservación y Uso Sostenible de la Ciénaga Grande de Santa Marta en Colombia – GRT/FM-19416-CO’ vigencia 2023. Busca mejorar la salud del ecosistema de la Ciénaga Grande de Santa Marta para promover la conservación de su biodiversidad por medio del fortalecimiento de la gobernanza ambiental de manera participativa.  
+Esta desconexión implica una brecha entre las políticas públicas, los proyectos académicos y las prácticas sociales que se desarrollan en torno al ecosistema, lo que dificulta la articulación, la cooperación y el diálogo entre los diferentes actores e intereses.

@@ -1,19 +1,30 @@
 ---
-title: 'Preview Mode for Static Generation'
-excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus.'
+title: 'Nobel: Paul Romer. '
+excerpt: 'Un economista, empresario y activista estadounidense.'
 coverImage: '/assets/blog/preview/cover.jpg'
-date: '2020-03-16T05:35:07.322Z'
+date: '2023-08-28T05:35:07.322Z'
 author:
-  name: Joe Haddad
-  picture: '/assets/blog/authors/joe.jpeg'
+  name: Mario Fesz
+  picture: '/assets/blog/authors/jj.jpeg'
 ogImage:
   url: '/assets/blog/preview/cover.jpg'
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+Economista, jefe y vicepresidente sénior del Banco Mundial, cargo que ocupó desde junio de 2016, hasta enero de 2018, Fue galardonado en 2018 con Premio del Banco de Suecia en Ciencias Económicas en memoria de Alfred Nobel.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+Crítico con la evolución teórica de la [macroeconomía](https://es.wikipedia.org/wiki/Macroeconom%C3%ADa), los [economistas ortodoxos](https://es.wikipedia.org/wiki/Econom%C3%ADa_ortodoxa) y específicamente con los [economistas neoclásicos](https://es.wikipedia.org/wiki/Economistas_neocl%C3%A1sicos) de las últimas décadas —post-realista producto del [neoliberalismo](https://es.wikipedia.org/wiki/Neoliberalismo)—. Considera que se hace un uso excesivo de la [modelización matemática](https://es.wikipedia.org/wiki/Modelizaci%C3%B3n_matem%C3%A1tica) que se ha demostrado inútil y peligrosa para el manejo de la economía real, constituyendo una posición puramente ideológica que es capaz de obviar y negar las causas de la [Gran Recesión](https://es.wikipedia.org/wiki/Gran_Recesi%C3%B3n) o crisis económica
 
-## Lorem Ipsum
+En su comunicado, el comité del Premio Nobel hace saber “premiar el diseño de modelos y métodos para estudiar algunas de las más fundamentales …. Preguntas de nuestro tiempo, como el desarrollo de largo plazo de la economía global y el bienestar de sus ciudadanos”
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculous mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
+Las contribuciones comparten un punto de partida común en el modelo neoclásico de crecimiento, por el cual Robert Solow fue premiado con el Nobel de Economía en 1987”
+
+¡La Teoría del crecimiento endógeno!
+
+Los modelos tradicionales de crecimiento que se utilizaban para estudiar distintas preguntas básicas sobre el tema estaban basados en la pionera contribución de Solow y sus extensiones
+
+La teoría que plantea Paul Romer sobre el proceso de creación de conocimiento tiene su origen en el trabajo de Arrow (1962b).
+
+El conocimiento presenta ingredientes muy peculiares que lo acercan a un bien público.
+
+
+
